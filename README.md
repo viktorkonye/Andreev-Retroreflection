@@ -1,2 +1,2 @@
 # Andreev-Retroreflection
-Presentation for Interactive Quantum Mechanics Seminar at Eötvös Loránd University.
+Easy algorithm to solve electon propagation on lattices. The algorithm can be used to solve the Bogoljubov-de Gennes Hamiltonian and demonstrate the Andreev-retroreflection.
